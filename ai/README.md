@@ -4,4 +4,5 @@
 - [Opus 5 is here... and it cannot stop thinking](https://www.youtube.com/watch?v=jxGJT1weu4w)
 - [KKEVIN - MAGAMÉRT (Official Visualizer)](https://www.youtube.com/watch?v=YO5Nz29UUgY)
 - [The full-length interview with Elon Musk | The Economist](https://www.youtube.com/watch?v=XuoqKYxDHVc)
-- ["MERJÜNK MAGYAROK LENNI!" PORTRÉFILM TELEKI PÁLRÓL I-IV. (RÉSZLET)](https://www.youtube.com/watch?v=47VysV1LEPg)
+- ["MERJÜNK MAGYAROK LENNI!" PORTRÉFILM TELEKI PÁLRÓL I-IV. (RÉSZLET)](https://www.youtube.com/watch?v=47VysV1LEPg) ❗️
+- [Amit sosem vettél észre Scorsese mesterművében: A tégla megfejtése](https://www.youtube.com/watch?v=ODPf-zfKlbU)
