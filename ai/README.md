@@ -46,7 +46,7 @@ hanem az, hogy
 
 ---
 
-Ez a repository ennek a kérdésnek a közös végiggondolásáról szól.
+Ez a vázlat ennek a kérdésnek a közös végiggondolásáról szól.
 
 Nem elsősorban AI-eszközökről.
 
