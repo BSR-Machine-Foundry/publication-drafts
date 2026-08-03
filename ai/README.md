@@ -101,8 +101,8 @@ A jövőt közösen alakítjuk.
 
 És ha a mérnökök nem kezdenek el beszélgetni arról, hogyan változik a saját szakmájuk, akkor könnyen előfordulhat, hogy néhány év múlva már csak alkalmazkodni próbálunk egy olyan világhoz, amelyet mások terveztek meg helyettünk.
 
-Ez a repository ezért nem egy újabb AI-eszközgyűjtemény.
+Ez a vázlat ezért nem egy újabb AI-eszközgyűjtemény.
 
-Sokkal inkább egy **gondolkodási műhely**.
+Sokkal inkább egy **gondolkodási műhely** forrása. 
 
 Egy hely, ahol közösen próbáljuk megérteni, hogy milyen mérnökökké szeretnénk válni a mesterséges intelligencia korszakában.
